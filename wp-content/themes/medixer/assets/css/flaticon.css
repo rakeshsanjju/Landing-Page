@@ -1,0 +1,193 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 08/04/2020 21:58
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("/wp-content/themes/medixer/assets/css/Flaticon.eot");
+  src: url("/wp-content/themes/medixer/assets/css/Flaticon.eot#iefix") format("embedded-opentype"),
+       url("/wp-content/themes/medixer/assets/css/Flaticon.woff2") format("woff2"),
+       url("/wp-content/themes/medixer/assets/css/Flaticon.woff") format("woff"),
+       url("/wp-content/themes/medixer/assets/css/Flaticon.ttf") format("truetype"),
+       url("/wp-content/themes/medixer/assets/css/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("/wp-content/themes/medixer/assets/css/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  
+font-style: normal;
+
+}
+
+.flaticon-call:before { content: "\f100"; }
+.flaticon-call-1:before { content: "\f101"; }
+.flaticon-email:before { content: "\f102"; }
+.flaticon-location:before { content: "\f103"; }
+.flaticon-placeholder:before { content: "\f104"; }
+.flaticon-right:before { content: "\f105"; }
+.flaticon-next:before { content: "\f106"; }
+.flaticon-left-arrow:before { content: "\f107"; }
+.flaticon-play-button:before { content: "\f108"; }
+.flaticon-play-button-1:before { content: "\f109"; }
+.flaticon-left:before { content: "\f10a"; }
+.flaticon-right-1:before { content: "\f10b"; }
+.flaticon-down:before { content: "\f10c"; }
+.flaticon-up:before { content: "\f10d"; }
+.flaticon-down-1:before { content: "\f10e"; }
+.flaticon-left-1:before { content: "\f10f"; }
+.flaticon-up-1:before { content: "\f110"; }
+.flaticon-user:before { content: "\f111"; }
+.flaticon-user-1:before { content: "\f112"; }
+.flaticon-event:before { content: "\f113"; }
+.flaticon-calendar:before { content: "\f114"; }
+.flaticon-calendar-1:before { content: "\f115"; }
+.flaticon-comments:before { content: "\f116"; }
+.flaticon-speech-bubbles:before { content: "\f117"; }
+.flaticon-quotation:before { content: "\f118"; }
+.flaticon-quotation-1:before { content: "\f119"; }
+.flaticon-tick:before { content: "\f11a"; }
+.flaticon-verified:before { content: "\f11b"; }
+.flaticon-checkmark:before { content: "\f11c"; }
+.flaticon-plus:before { content: "\f11d"; }
+.flaticon-minus:before { content: "\f11e"; }
+.flaticon-settings:before { content: "\f11f"; }
+.flaticon-instagram:before { content: "\f120"; }
+.flaticon-whatsapp:before { content: "\f121"; }
+.flaticon-behance:before { content: "\f122"; }
+.flaticon-share:before { content: "\f123"; }
+.flaticon-facebook:before { content: "\f124"; }
+.flaticon-twitter:before { content: "\f125"; }
+.flaticon-twitter-1:before { content: "\f126"; }
+.flaticon-behance-1:before { content: "\f127"; }
+.flaticon-linkedin:before { content: "\f128"; }
+.flaticon-youtube:before { content: "\f129"; }
+.flaticon-option:before { content: "\f12a"; }
+.flaticon-menu:before { content: "\f12b"; }
+.flaticon-menu-1:before { content: "\f12c"; }
+.flaticon-menu-2:before { content: "\f12d"; }
+.flaticon-menu-3:before { content: "\f12e"; }
+.flaticon-menu-4:before { content: "\f12f"; }
+.flaticon-bookmark:before { content: "\f130"; }
+.flaticon-bookmark-1:before { content: "\f131"; }
+.flaticon-reply:before { content: "\f132"; }
+.flaticon-edit:before { content: "\f133"; }
+.flaticon-pen:before { content: "\f134"; }
+.flaticon-worldwide:before { content: "\f135"; }
+.flaticon-worldwide-1:before { content: "\f136"; }
+.flaticon-search:before { content: "\f137"; }
+.flaticon-view:before { content: "\f138"; }
+.flaticon-right-2:before { content: "\f139"; }
+.flaticon-left-2:before { content: "\f13a"; }
+.flaticon-kidney:before { content: "\f13b"; }
+.flaticon-kidneys:before { content: "\f13c"; }
+.flaticon-kidney-1:before { content: "\f13d"; }
+.flaticon-dissection:before { content: "\f13e"; }
+.flaticon-headphones:before { content: "\f13f"; }
+.flaticon-music:before { content: "\f140"; }
+.flaticon-headphone:before { content: "\f141"; }
+.flaticon-customer-service:before { content: "\f142"; }
+.flaticon-support:before { content: "\f143"; }
+.flaticon-help:before { content: "\f144"; }
+.flaticon-online-shopping:before { content: "\f145"; }
+.flaticon-medical-support:before { content: "\f146"; }
+.flaticon-medical-kit:before { content: "\f147"; }
+.flaticon-doctor:before { content: "\f148"; }
+.flaticon-hospital:before { content: "\f149"; }
+.flaticon-hospital-1:before { content: "\f14a"; }
+.flaticon-tag:before { content: "\f14b"; }
+.flaticon-price-tag:before { content: "\f14c"; }
+.flaticon-tag-1:before { content: "\f14d"; }
+.flaticon-team:before { content: "\f14e"; }
+.flaticon-customer-service-1:before { content: "\f14f"; }
+.flaticon-high-five:before { content: "\f150"; }
+.flaticon-nurse:before { content: "\f151"; }
+.flaticon-nurse-1:before { content: "\f152"; }
+.flaticon-patient:before { content: "\f153"; }
+.flaticon-bed:before { content: "\f154"; }
+.flaticon-hospital-bed:before { content: "\f155"; }
+.flaticon-mail:before { content: "\f156"; }
+.flaticon-email-1:before { content: "\f157"; }
+.flaticon-email-2:before { content: "\f158"; }
+.flaticon-location-1:before { content: "\f159"; }
+.flaticon-location-pin:before { content: "\f15a"; }
+.flaticon-marker:before { content: "\f15b"; }
+.flaticon-technical-support:before { content: "\f15c"; }
+.flaticon-marker-1:before { content: "\f15d"; }
+.flaticon-credit-card:before { content: "\f15e"; }
+.flaticon-credit-card-1:before { content: "\f15f"; }
+.flaticon-book:before { content: "\f160"; }
+.flaticon-loan:before { content: "\f161"; }
+.flaticon-profit:before { content: "\f162"; }
+.flaticon-investment:before { content: "\f163"; }
+.flaticon-donate:before { content: "\f164"; }
+.flaticon-padlock:before { content: "\f165"; }
+.flaticon-shield:before { content: "\f166"; }
+.flaticon-lock:before { content: "\f167"; }
+.flaticon-virus:before { content: "\f168"; }
+.flaticon-family:before { content: "\f169"; }
+.flaticon-mystery:before { content: "\f16a"; }
+.flaticon-search-1:before { content: "\f16b"; }
+.flaticon-eye-test:before { content: "\f16c"; }
+.flaticon-heart:before { content: "\f16d"; }
+.flaticon-heartbeat:before { content: "\f16e"; }
+.flaticon-heart-1:before { content: "\f16f"; }
+.flaticon-notification:before { content: "\f170"; }
+.flaticon-open-mail:before { content: "\f171"; }
+.flaticon-envelope:before { content: "\f172"; }
+.flaticon-mail-1:before { content: "\f173"; }
+.flaticon-letter:before { content: "\f174"; }
+.flaticon-mail-2:before { content: "\f175"; }
+.flaticon-tooth:before { content: "\f176"; }
+.flaticon-gums:before { content: "\f177"; }
+.flaticon-tooth-1:before { content: "\f178"; }
+.flaticon-braces:before { content: "\f179"; }
+.flaticon-dental:before { content: "\f17a"; }
+.flaticon-dentist:before { content: "\f17b"; }
+.flaticon-braces-1:before { content: "\f17c"; }
+.flaticon-dental-implant:before { content: "\f17d"; }
+.flaticon-dental-1:before { content: "\f17e"; }
+.flaticon-healthy-tooth:before { content: "\f17f"; }
+.flaticon-dentist-1:before { content: "\f180"; }
+.flaticon-toothbrush:before { content: "\f181"; }
+.flaticon-tooth-2:before { content: "\f182"; }
+.flaticon-teeth:before { content: "\f183"; }
+.flaticon-mouthwash:before { content: "\f184"; }
+.flaticon-tooth-3:before { content: "\f185"; }
+.flaticon-dental-care:before { content: "\f186"; }
+.flaticon-dentist-mask:before { content: "\f187"; }
+.flaticon-checkup:before { content: "\f188"; }
+.flaticon-tools:before { content: "\f189"; }
+.flaticon-love:before { content: "\f18a"; }
+.flaticon-clipboard:before { content: "\f18b"; }
+.flaticon-tooth-4:before { content: "\f18c"; }
+.flaticon-dentist-2:before { content: "\f18d"; }
+.flaticon-dentistry:before { content: "\f18e"; }
+.flaticon-teeth-1:before { content: "\f18f"; }
+.flaticon-tooth-5:before { content: "\f190"; }
+.flaticon-teeth-2:before { content: "\f191"; }
+.flaticon-teeth-3:before { content: "\f192"; }
+.flaticon-teeth-4:before { content: "\f193"; }
+.flaticon-dental-2:before { content: "\f194"; }
+.flaticon-healthcare-and-medical:before { content: "\f195"; }
+.flaticon-dental-3:before { content: "\f196"; }
+.flaticon-healthcare-and-medical-1:before { content: "\f197"; }
+.flaticon-dental-4:before { content: "\f198"; }
+.flaticon-dental-5:before { content: "\f199"; }
+.flaticon-healthcare-and-medical-2:before { content: "\f19a"; }
+.flaticon-dentist-3:before { content: "\f19b"; }
+.flaticon-dental-6:before { content: "\f19c"; }
+.flaticon-implant:before { content: "\f19d"; }
+.flaticon-healthcare-and-medical-3:before { content: "\f19e"; }
+.flaticon-tooth-6:before { content: "\f19f"; }
+.flaticon-teeth-5:before { content: "\f1a0"; }
